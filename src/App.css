@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f6fa;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.table th {
+  background-color: #f1f3f5;
+}
+
+.form-label {
+  font-weight: 600;
+}
+
+.page-title {
+  font-weight: 700;
+}
+
+.action-btn {
+  margin-right: 6px;
+}
